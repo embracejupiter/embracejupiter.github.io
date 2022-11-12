@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: gainsboro;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: orange;
+  text-align: center;
+}
+
+table {
+  border: 2px solid black;
+  width: 650px;
+  margin: 0 auto;
+}
+
+thead {
+  background-color: red;
+}
+
+td {
+  border-top: 1px solid red;
+}
+
+.code {
+  font-family: monospace;
+  background-color: white;
+}
